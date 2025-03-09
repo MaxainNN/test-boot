@@ -1,0 +1,10 @@
+POST http://localhost:8080/
+Content-Type: application/json
+
+{
+    "name": "Max1",
+    "email": "Max1@gmail.com",
+    "birthDate": "2001-01-02",
+    "age": 25,
+    "salary": 101000
+}
